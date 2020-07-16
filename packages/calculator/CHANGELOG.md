@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/andreepratama27/asi/compare/@asi/calculator@0.0.2...@asi/calculator@0.1.0) (2020-07-16)
+
+
+### Features
+
+* add new number ([090351e](https://github.com/andreepratama27/asi/commit/090351e6ccd9e05f142bbcbcb853c7a944b80115))
+
+
+
+
+
 ## 0.0.2 (2020-07-16)
 
 
