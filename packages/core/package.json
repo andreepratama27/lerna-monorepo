@@ -1,0 +1,10 @@
+{
+  "name": "@asi/core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@asi/calculator": "^1.0.0",
+    "@asi/ui": "^1.0.0"
+  }
+}
